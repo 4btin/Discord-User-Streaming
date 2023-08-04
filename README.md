@@ -2,13 +2,9 @@
 
  - First, open Discord and press the F12 key to open the developer tools console. Click on the "Network" tab.
 
- - ![image](https://github.com/4btin/Discord-User-Streaming/assets/136545588/a3eb1a83-4073-41b0-8418-5d7f01a90a9e)
-
  - Next, type some random text in a server on Discord. Then, click on your own username.
 
  - In the "Network" tab, click on a tab called "Science" and scroll down the page.
-
- - ![image](https://github.com/4btin/Discord-User-Streaming/assets/136545588/0bb87886-9b67-4ef7-b5a5-cc37431ab869)
 
  - Find the "Authorization:" text and you will see your user token in the adjacent area. Copy this token.
 
