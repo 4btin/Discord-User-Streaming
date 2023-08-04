@@ -17,3 +17,7 @@
  - Then, in the `index.js` file, go to `line 19.` After `image:`, enter the name of the photo you want to use in your bot's Rich Presence. If the photo doesn't exist, add it, otherwise, it won't work. Save the file after adding the photo.
 
  - Now, open the terminal, type `npm i` to install the necessary modules. After the modules are installed, type `node index` to run the bot.
+   
+ - If you need any assistance, feel free to join our server and ask your questions there.
+   
+ - https://discord.gg/4g9VEETzes
